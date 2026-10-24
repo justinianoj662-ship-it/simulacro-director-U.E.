@@ -1,0 +1,22 @@
+Copyright (c) 2026 Lic. Jonathan A. Justiniano Escobar
+All Rights Reserved.
+
+PROPIEDAD INTELECTUAL
+
+Este software (Simulacro de Examen para Dirección de Unidad Educativa),
+incluyendo su diseño, estructura, bancos de preguntas integrados
+y código fuente, es obra original de Lic. Jonathan A. Justiniano Escobar.
+
+QUEDA PROHIBIDO:
+- Copiar, modificar o redistribuir el código eliminando o alterando
+  el crédito del autor.
+- Publicar versiones derivadas como obra propia.
+- Uso comercial sin autorización escrita del autor.
+
+SE PERMITE:
+- Uso personal y educativo del simulacro con el crédito visible.
+- Compartir el enlace o archivo intacto citando al autor.
+
+Para autorizaciones: contactar al autor.
+
+Lic. Jonathan A. Justiniano Escobar
